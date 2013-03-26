@@ -50,7 +50,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>org.multiwii.swinggui.MWGui</mainClass>
+							<mainClass>org.multiwii.swingui.MwGui</mainClass>
 							<addClasspath>true</addClasspath>
 						</manifest>
 					</archive>
@@ -80,7 +80,7 @@
 				<version>1.0-alpha-2</version>
 					<configuration>
 						<javaApplicationStub>${basedir}/src/main/resources/JavaApplicationStub</javaApplicationStub>
-						<mainClass>org.multiwii.swinggui.MWGui</mainClass>
+						<mainClass>org.multiwii.swingui.MwGuim</mainClass>
 					</configuration>
 					<executions>
 						<execution>
